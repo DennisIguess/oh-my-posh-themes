@@ -6,7 +6,7 @@
       "newline": true,
       "segments": [
         {
-          "background": "#ec6ad6",
+          "background": "#EE5976",
           "foreground": "#f2f3f8",
           "properties": {
             "alpine": "\uf300",
@@ -95,7 +95,7 @@
           "type": "executiontime"
         },
         {
-          "background": "#ec6ad6",
+          "background": "#EE5976",
           "foreground": "#f2f3f8",
           "properties": {
             "time_format": "15:04:05"
@@ -114,7 +114,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#ec6ad6",
+          "foreground": "#EE5976",
           "style": "plain",
           "template": "\u2570\u2500 {{ if .Root }}#{{else}}${{end}}",
           "type": "text"
