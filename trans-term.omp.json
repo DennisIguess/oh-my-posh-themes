@@ -59,9 +59,6 @@
           "foreground": "#100e23",
           "background": "#906cff",
           "template": "  {{ .Full }} "
-          "properties": {
-            "display_mode": "context"
-          }
         },
         {
           "background": "#378504",
