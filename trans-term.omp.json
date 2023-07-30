@@ -63,8 +63,7 @@
             "display_mode": "context",
             "fetch_version": true,
             "fetch_virtual_env": true,
-            "display_default": true,
-            
+            "display_default": true
           }
         },
         {
