@@ -59,6 +59,9 @@
           "foreground": "#100e23",
           "background": "#906cff",
           "template": " \ue235 {{ .Full }} "
+          "properties": {
+            "display_mode": "context"
+          }
         },
         {
           "background": "#378504",
