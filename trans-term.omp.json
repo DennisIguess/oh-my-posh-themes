@@ -58,7 +58,6 @@
           "powerline_symbol": "\ue0b0",
           "foreground": "#100e23",
           "background": "#906cff",
-          "template": " \ue235 {{ .Full }} ",
           "properties": {
             "display_mode": "context",
             "prefix": " \ue235 {{ .Full }} ",
