@@ -60,7 +60,9 @@
           "background": "#906cff",
           "template": " \ue235 {{ .Full }} "
           "properties": {
-            "display_mode": "context"
+            "display_mode": "context",
+            "display_version": "true",
+            "display_virtual_env": "true"
           }
         },
         {
