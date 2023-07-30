@@ -62,7 +62,9 @@
           "properties": {
             "display_mode": "context",
             "display_version": true,
-            "display_virtual_env": true
+            "fetch_virtual_env": true,
+            "display_default": true,
+            
           }
         },
         {
