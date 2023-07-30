@@ -61,6 +61,7 @@
           "template": " \ue235 {{ .Full }} ",
           "properties": {
             "display_mode": "context",
+            "prefix": " \ue235 {{ .Full }} ",
             "fetch_version": true,
             "fetch_virtual_env": true,
             "display_default": true
