@@ -55,10 +55,10 @@
         {
           "type": "python",
           "style": "powerline",
-          "powerline_symbol": "",
+          "powerline_symbol": "\ue0b0",
           "foreground": "#100e23",
           "background": "#906cff",
-          "template": "  {{ .Full }} "
+          "template": " \ue235 {{ .Full }} "
         },
         {
           "background": "#378504",
