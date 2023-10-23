@@ -135,6 +135,11 @@
         }
       ],
       "type": "prompt"
+    },
+    "secondary_prompt": {
+        "background": "transparent",
+        "foreground": "#ffffff",
+        "template": "-> "
     }
   ],
   "final_space": true,
