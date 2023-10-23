@@ -137,6 +137,11 @@
       "type": "prompt"
     }
   ],
+  "secondary_prompt": {
+        "background": "transparent",
+        "foreground": "#ffffff",
+        "template": "\u03bb "
+    }
   "final_space": true,
   "version": 2
 }
