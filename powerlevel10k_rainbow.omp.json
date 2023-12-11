@@ -18,7 +18,10 @@
           "powerline_symbol": "\ue0b0",
           "properties": {
             "home_icon": "~",
-            "style": "full"
+            "style": "agnoster_short",
+			"max_depth": 3,
+			"folder_icon": "\u2026",
+			"folder_separator_icon": " <transparent>\ue0b1</> "
           },
           "style": "powerline",
           "template": " \uf07c {{ .Path }} ",
